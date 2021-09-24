@@ -1,0 +1,98 @@
+p img {
+  border: 2px solid #ffffff;
+  cursor: pointer;
+}
+
+p img:hover {
+  border: 2px solid red;
+}
+
+.content-detail {
+    width: 505px;
+    margin-left: 41px;
+}
+
+.images-detail p {
+    width: 424px;
+}
+
+.container-detail {
+    display: flex;
+    margin: auto;
+    width: 1060px;
+    justify-content: space-around;
+}
+
+.title img {
+ height: 29px;
+ margin-right: 10px;
+ margin-bottom: 14px;
+}
+
+.location {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.location {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.title h3 {
+    font-family: "Karla", sans-serif;
+    font-size: 27px;
+    padding: 10px 0;
+    font-weight: 700;
+    color: #000000;
+}
+
+.title h4 {
+    color: red;
+    font-size: 17px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-family: "Karla", sans-serif;
+}
+
+.title li {
+    list-style: none;
+    font-size: 18px;
+    font-family: "Karla", sans-serif;
+    color: #000000;
+}
+
+.content-detail p {
+    font-family: "Karla", sans-serif;
+    font-size: 18px;
+    color: #000000;
+}
+
+.location a {
+    text-decoration: none;
+}
+
+p.text {
+    font-weight: 700;
+    font-family: "Karla", sans-serif;
+    margin: 0;
+}
+
+.contain {
+    width: 1060px;
+    margin: auto;
+}
+
+img.main-image {
+    margin-bottom: 13px;
+    width: 422px;
+}
+
+img.extra-img {
+    width: 77px;
+    margin: 0 2px;
+}
+
+.site-wrap {
+    background: #F8F9FA;
+}
